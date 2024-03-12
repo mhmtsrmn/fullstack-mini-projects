@@ -1,0 +1,56 @@
+* {
+    font-family: arial, verdana, sans-serif;
+}
+
+body {
+    background-color: white;
+}
+
+main {
+    margin: 2rem 0.1rem;
+    background-color: #eee;
+
+}
+
+#title,
+p {
+    text-align: center;
+}
+
+#title {
+    padding: 2rem 0 0 0;
+}
+
+#image {
+    display: block;
+    width: 500px;
+    max-width: 100%;
+    height: auto;
+    margin: 0 auto;
+    padding: 3rem 0 0 0;
+}
+
+#img-div {
+    background-color: white;
+    margin: 0 1rem;
+}
+
+#img-caption {
+    text-align: center;
+    padding: 1rem 0;
+}
+
+main>ul {
+    width: 350px;
+    margin: 1rem auto;
+    font-size: 95%;
+}
+
+main ul li {
+    padding: 0.5rem;
+}
+
+#reference {
+    padding-bottom: 1rem;
+    font-weight: bold;
+}
