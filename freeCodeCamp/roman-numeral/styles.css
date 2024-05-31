@@ -1,0 +1,42 @@
+body{
+    background-color: #111133;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    flex: 0 1 auto;
+    margin: 0;
+    padding: 0;
+  }
+
+  input{
+    width: 70%;
+  }
+  
+  span {
+    color: white;
+    font-family: arial, sans-serif;
+    margin: 4rem auto -4rem;
+    font-size: 32px;
+  }
+  
+  .container{
+    margin: 5rem auto;
+    border: 2px solid yellow;
+    padding: 3rem;
+    background-color: #999;
+    height: 50px;
+    width: 300px;
+  }
+  
+  #output {
+    display: none;
+    color: #D2042D;
+    font-size: 24px;
+    border: 2px solid #D2042D;
+    background-color: #ee9069;
+    /* height: 50px; */
+    width: 300px;
+    padding: 1rem 3rem;
+    margin: -4rem auto;
+  }
+  
